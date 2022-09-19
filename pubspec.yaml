@@ -1,0 +1,39 @@
+name: mux
+description: A new Flutter project.
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0-271.7.beta <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  cloud_firestore: ^3.4.6
+  firebase_auth: ^3.7.0
+  firebase_core: ^1.21.1
+  firebase_analytics: ^9.3.4
+  firebase_app_installations: ^0.1.1+7
+  firebase_messaging: ^13.0.1
+  video_stream:
+    git:
+      url: https://github.com/evilmtv/video_stream
+      ref: 4ca161ee0a9fce0f7608be7cdb6cfca7a53c2430
+  video_player: ^2.3.0
+  chewie: ^1.3.5
+  wakelock: ^0.6.1+2
+  cloud_functions: ^3.2.10
+  intl: ^0.17.0
+  font_awesome_flutter: ^9.2.0
+  permission_handler: ^9.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter:
+  uses-material-design: true

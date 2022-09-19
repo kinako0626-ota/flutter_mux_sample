@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "217615616379",
+    "firebase_url": "https://mux-sample-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mux-sample",
+    "storage_bucket": "mux-sample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217615616379:android:e9edb59d86f6f2ab1dd5de",
+        "android_client_info": {
+          "package_name": "com.example.mux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217615616379-ir1fbpl7cslevl6ggtj1l1uqmio455rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPLCq7xulbz0O5IhP-8NyaenUcyzJqf-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217615616379-ir1fbpl7cslevl6ggtj1l1uqmio455rq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "217615616379-jphitu21cemuu70ceebnvrhrrh0784tl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mux"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
